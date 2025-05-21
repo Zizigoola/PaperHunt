@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+pandas
+tqdm
+streamlit
+scikit-learn
+arxiv
+beautifulsoup4
+requests
