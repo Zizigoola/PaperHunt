@@ -1,6 +1,9 @@
 import streamlit as st
 from src.search import PaperSearcher
 
+from src.search import PaperSearcher
+
+
 # Load model and index
 @st.cache_resource
 def load_searcher():
